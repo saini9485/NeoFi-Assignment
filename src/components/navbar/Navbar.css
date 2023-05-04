@@ -3,16 +3,22 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: #fff;
+  /* background-color: #fff; */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* background: linear-gradient(94.37deg, #3387D5 -5.94%, #7A06C9 115.34%); */
+  background: #0B0819;
 }
 
 .navbar-logo {
   font-weight: bold;
   font-size: 1.2rem;
+  width: 83px;
+  height: 44px;
+  left: 81px;
+  top: 12px;
 }
 
-.navbar-items {
+.navbar-icons {
   display: flex;
 }
 
@@ -21,12 +27,21 @@
 }
 
 .navbar-item a {
-  color: #333;
+  /* color: #333; */
+  color: white;
   text-decoration: none;
+  font-weight: bolder;
 }
 
-.navbar-contact a {
-  color: #333;
+.navbar-connect a {
+  color: white;
+  border-radius: 10px;
   text-decoration: none;
   font-weight: bold;
+  background: linear-gradient(94.37deg, #3387D5 -5.94%, #7A06C9 115.34%)
+  
 }
+
+
+
+

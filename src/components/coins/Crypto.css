@@ -1,0 +1,84 @@
+.explore_coins_header {
+  height: 50px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #d7d7d7;
+  margin-top: 10px;
+  background-color: cornflowerblue;
+  color: white;
+}
+.header_text {
+  color: white;
+}
+/* body{
+  background-color: black;
+  color: white;
+} */
+.white {
+  background-color: white;
+  color: black;
+  border-radius: 1px;
+}
+.dark {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+.coins_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
+
+.coin-search-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.coin-search {
+  margin-top: 10px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.coin-text {
+  text-align: center;
+}
+
+.coin-input {
+  padding-left: 16px;
+  width: 400px;
+  height: 40px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  text-align: center;
+  border: none;
+  background-color: #e2e2e2;
+}
+
+.coin-input::placeholder {
+  color: black;
+}
+
+.Search_Btn {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 50px;
+  height: 40px;
+  font-size: large;
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.Search_Btn:hover {
+  background-color: #ac32e4;
+  color: rgb(251, 244, 244);
+}

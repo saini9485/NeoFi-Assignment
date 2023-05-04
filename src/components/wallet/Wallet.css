@@ -1,0 +1,46 @@
+.container {
+    background-color: #1C1731;;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    
+  }
+  .Select{
+width: 60%;
+height: 50px;
+box-sizing: border-box;
+background: #1C1731;
+border-radius: 10px;
+
+  }
+  @media (min-width: 600px) {
+    .container {
+      width: 470px;
+      height: 567px;
+    }
+  }
+  
+  .Img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .Price {
+    color: white;
+    margin: 10px;
+  }
+  
+  .InvestMent {
+    margin: 10px;
+  }
+  
+  .Token {
+    color: white;
+    margin: 10px;
+  }
+  

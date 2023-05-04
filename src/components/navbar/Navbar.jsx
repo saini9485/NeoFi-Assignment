@@ -15,9 +15,9 @@ export function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <a href="/">Logo</a>
+        <a href="/">NeoFi</a>
       </div>
-      <div className="navbar-items">
+      <div className="navbar-icons">
         <div className="navbar-item">
           <a href="/trade">Trade</a>
         </div>
@@ -31,8 +31,8 @@ export function Navbar() {
           <a href="/about">About</a>
         </div>
       </div>
-      <div className="navbar-contact">
-        <a href="/contact">Contact</a>
+      <div className="navbar-connect">
+        <a href="/contact">Connect Wallet</a>
       </div>
     </nav>
   );
