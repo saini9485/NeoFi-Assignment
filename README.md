@@ -9,7 +9,7 @@ to
 ### `npm start`
 
 
-Open [http://lo
+
 
 
 ### `npm test`
