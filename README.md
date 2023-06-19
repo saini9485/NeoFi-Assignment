@@ -1,10 +1,6 @@
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
-to interactive watch mode.\
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more informatio
 
 Builds the app for production to the `build` folder.\
