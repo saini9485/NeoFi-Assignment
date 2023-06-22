@@ -9,9 +9,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 You
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more informatio
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
