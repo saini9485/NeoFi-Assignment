@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more informatio
 
-Builds the app for production to the `build` folder.\
+Builds the app for production 
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
